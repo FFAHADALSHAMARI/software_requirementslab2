@@ -12,6 +12,6 @@ Then in task 2 i have created the the nodes using the Sirius diagram editor
 
 
 
-Then from  plugin building and testing methods, I tested it <img width="993" alt="task4 promXML install" src="https://github.com/FFAHADALSHAMARI/software_requirementslab2/assets/148696097/0d2bb89a-b739-44fa-af8b-a4247c1d243e">
+Then from  plugin building and testing methods, I tested it
 <img width="382" alt="task4 pormXML clean" src="https://github.com/FFAHADALSHAMARI/software_requirementslab2/assets/148696097/8cf5d0b0-b775-44cc-a2b2-c7d862acbc03">
 <img width="961" alt="task 4 testing" src="https://github.com/FFAHADALSHAMARI/software_requirementslab2/assets/148696097/0f53e05d-efa0-4bd2-90c7-05de2b282144">
